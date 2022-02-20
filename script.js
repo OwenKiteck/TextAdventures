@@ -216,7 +216,7 @@ while (answer == 2) {
 
 alert(`${hp} HP
 You blow again with all your might. The crown falls and smashes onto the ground into a billion pieces!
-"NNOOooOOooOoo! I'm powerless without my crown! Argh, you win this time pesky plumber, but just you wait till it return!`);
+"NNOOooOOooOoo! I'm powerless without my crown! Argh, you win this time pesky plumber, but just you wait till I return!`);
 
 alert(`Luigi is filled with relief as King Boo floats away. He did it!
 Just then, Mario and Peach come in the door with a mushroom pizza and cake. 
